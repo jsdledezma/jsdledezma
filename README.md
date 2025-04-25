@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsdledezma
-- 👀 I’m interested in improving my coding skills and learning new things that could help me in the future.
-- 🌱 I’m currently learning the basics of web development.
+- 👀 I’m interested in improving my coding skills on the field, working in projects
+- 🌱 I’m currently deciding a road to follow.
 - 💞️ I’m looking to collaborate on teams that are also learning or looking for people with less experience.
 - 📫 How to reach me: Instagram (@jsdvilla)
 
